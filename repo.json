@@ -1,0 +1,18 @@
+[
+  {
+    "Author": "jamiewalkerca-pixel",
+    "Name": "AutoDuty",
+    "InternalName": "AutoDuty",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Automated dungeon running plugin. Loops instanced content with Duty Support, Trusts, or Squadrons.",
+    "Punchline": "Auto-run dungeons AFK.",
+    "RepoUrl": "https://github.com/jamiewalkerca-pixel/AutoDuty",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/jamiewalkerca-pixel/AutoDuty/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/jamiewalkerca-pixel/AutoDuty/releases/latest/download/latest.zip",
+    "LastUpdate": "1717200000"
+  }
+]
