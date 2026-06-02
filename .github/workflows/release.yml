@@ -18,9 +18,6 @@ jobs:
         with:
           dotnet-version: '9.0.x'
 
-      - name: Add Dalamud NuGet feed
-        run: dotnet nuget add source --name goatcorp "https://goatcorp.github.io/dalamud-distrib/index.json"
-
       - name: Restore dependencies
         run: dotnet restore AutoDuty/AutoDuty.csproj
 
